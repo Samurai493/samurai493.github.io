@@ -1,7 +1,1 @@
-<!DOCTYPE html>
-<html>
-  <body>
-    <p>hi</p>
-  </body>
-</html>
 
